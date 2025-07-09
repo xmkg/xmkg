@@ -9,7 +9,7 @@
       <strong>Senior C++ Systems Programming Engineer | OSS Contributor</strong><br>
       <br>
       📧 <a href="mailto:mustafagilor@gmail.com">mustafagilor@gmail.com</a> • 
-      🔗 <a href="https://www.github.com/xmkg">GitHub</a> • 
+      🔗 <a href="https://mkg.dev/">Personal Homepage</a> • 
       💼 <a href="https://www.linkedin.com/in/mustafakemalgilor">LinkedIn</a>
     </td>
   </tr>

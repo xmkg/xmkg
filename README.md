@@ -4,4 +4,4 @@ I'm a passionate engineer who designs robust, high-performance systems. I thrive
 
 ## Interests
 
-When I'm not immersed in code, you can find me enjoying role-playing games 🎮, perfecting homebrew recipes 🍺, hitting the gravel trails 🚴, or even exploring indie MMORPG design. 🎲
+RPGs, homebrewing, gravel cycling, and tinkering with an indie MMORPG.

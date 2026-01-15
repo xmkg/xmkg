@@ -1,6 +1,6 @@
 ## About Me
 
-I'm a passionate engineer who designs robust, high-performance systems. I thrive on challenges in high-performance systems programming and resilient architecture.
+I write systems software—currently virtualization tooling at Canonical. Co-wrote a book on CMake, once built a DPI engine that ran under a microsecond, and I'm building an MMORPG with UE5 in my free time.
 
 ## Interests
 
